@@ -1,6 +1,10 @@
 # To_morrow
 2021 소개딩 시즌3 한국인터넷진흥원장상 수상
 
+### 개발 구성
+- 서버 : Django
+- DB : Mysql
+
 ### To, morrow 기획
 ![image](https://user-images.githubusercontent.com/74848401/162601167-a96cd493-a715-4ed1-adca-832000d2728f.png)
 ![image](https://user-images.githubusercontent.com/74848401/162601173-3b9abd44-a15d-42cc-b683-72c583563c2d.png)
